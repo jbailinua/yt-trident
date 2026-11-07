@@ -1,2 +1,3 @@
 [yt]
 plugin_filename="my_plugins.py"
+log_level = 40
